@@ -102,3 +102,11 @@ Mulai → Input nama → Tampil leaderboard
 - File `skor.txt` dibuat **otomatis** saat pertama kali game selesai
 - Jika `skor.txt` dihapus, leaderboard akan mulai dari awal
 - Nama pemain kosong akan otomatis diisi **"anonim"**
+
+---
+
+## 💡 Tujuan
+Project ini dibuat untuk melatih:
+- penggunaan function di Python
+- file handling (JSON)
+- logika game sederhana
